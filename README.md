@@ -11,4 +11,6 @@
 ### 🧪 Projects
 - **🐶 Cat vs Dog Image Classifier** — CNN model trained with TensorFlow & OpenCV  
 - **📊 Excel Automation Tool** — Python script for automating data formatting in Excel
+- **AI-Powered Smart Expense Analyzer** - Built an interactive Streamlit app that uses Random Forest classification and anomaly detection to analyze and optimize personal expenses with over 90% prediction accuracy.
+
 
